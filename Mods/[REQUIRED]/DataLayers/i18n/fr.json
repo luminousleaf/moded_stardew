@@ -1,0 +1,72 @@
+﻿{
+    // accessible
+    "accessible.name": "Accessibilité",
+    "accessible.clear": "Libre",
+    "accessible.occupied": "Occupée",
+    "accessible.impassable": "Infranchissable",
+    "accessible.warp": "Passage",
+
+    // buildable
+    "buildable.name": "Construction",
+    "buildable.buildable": "Constructible",
+    "buildable.occupied": "Occupée",
+    "buildable.not-buildable": "Non constructible",
+
+    // coverage: bee houses
+    "bee-houses.name": "Couverture : Ruche",
+    "bee-houses.range": "Portée des fleurs",
+
+    // coverage: Junimo huts
+    "junimo-huts.name": "Couverture : Hutte Junimo",
+    "junimo-huts.can-harvest": "Récoltable",
+    "junimo-huts.cannot-harvest": "Non récoltable",
+
+    // coverage: scarecrows
+    "scarecrows.name": "Couverture : Épouvantail",
+    "scarecrows.protected": "Protégée",
+    "scarecrows.exposed": "Exposée",
+
+    // coverage: sprinklers
+    "sprinklers.name": "Couverture : Arroseur",
+    "sprinklers.covered": "Couverte",
+    "sprinklers.dry-crops": "Non couverte",
+
+    // crops: harvest
+    "crop-harvest.name": "Culture : Récoltes",
+    "crop-harvest.ready": "Prête",
+    "crop-harvest.not-ready": "Pas prête",
+    "crop-harvest.not-enough-time-or-dead": "Pas assez de temps (ou mort)",
+
+    // crops: watered
+    "crop-water.name": "Culture : Arrosage",
+    "crop-water.watered": "Culture arrosée",
+    "crop-water.dry": "Culture sèche",
+
+    // crops: water for paddy crops
+    "crop-paddy-water.name": "Culture: Irrigation des rizières",
+    "crop-paddy-water.in-range": "Terrain irrigué",
+    "crop-paddy-water.not-in-range": "Terrain sec",
+
+    // crops: fertilized
+    "crop-fertilizer.name": "Culture : Engrais",
+    "crop-fertilizer.fertilizer": "Engrais",
+    "crop-fertilizer.retaining-soil": "Sol de rétention",
+    "crop-fertilizer.speed-gro": "Croissance rapide",
+    "crop-fertilizer.multiple": "Types d'engrais multiples",
+
+    // machine processing
+    "machines.name": "Traitement des Machines",
+    "machines.empty": "Vide",
+    "machines.processing": "En cours",
+    "machines.finished": "Terminée",
+
+    // tile grid
+    "grid.name": "Grille de cases",
+
+    // tillable
+    "tillable.name": "Labourable",
+    "tillable.tillable": "Labourable",
+    "tillable.tilled": "Labourée",
+    "tillable.occupied": "Occupée",
+    "tillable.not-tillable": "Non Labourable"
+}
