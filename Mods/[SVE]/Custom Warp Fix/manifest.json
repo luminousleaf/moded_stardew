@@ -1,0 +1,18 @@
+{
+  "Name": "Custom Farm Warp fix for SVE",
+  "Author": "LiuMu",
+  "Version": "1.0",
+  "Description": "Fix the Enchanted Grove warp location for custom farm maps",
+  "UniqueID": "Liumu.MapPatchforSVE",
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "Nexus:???" ],
+  "ContentPackFor": {
+  "UniqueID": "Pathoschild.ContentPatcher",
+   },
+  "Dependencies": [
+   {
+      "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+      "IsRequired": false,
+   },
+  ]
+}
